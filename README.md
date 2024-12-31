@@ -5,17 +5,16 @@
 High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame,
 but can be easily adapted for other 2020 aluminium extrusion frames.
 
+![Vz-330-printed](https://user-images.githubusercontent.com/37383368/234322472-ee72c61e-8844-4459-8a6c-acaaecfe1e6f.png)
+
+Buy the full printer kit from Mellow 3D: [AliExpress.com - VzBoT Vz330 AWD CNC kit](https://s.click.aliexpress.com/e/_DkFwymp)
+
+# Looking For Guides?
+The VzBot team has been working on our own docs for helping with your assembly of the machine. For the most upto date guides they can be found here: [docs.vzbot.org](https://docs.vzbot.org)
+
 You can find the complete web model without CAD-Software here: 
 - [Printed Vz-330](https://a360.co/3zy0yob)  
 - [Full CNC AWD Vz-330](https://a360.co/3Q0ueRY)
-
-![Vz-330-printed](https://user-images.githubusercontent.com/37383368/234322472-ee72c61e-8844-4459-8a6c-acaaecfe1e6f.png)
-
-Buy the full printer kit here: [https://s.click.aliexpress.com/e/_DkFwymp]
-
-# Looking For Guides?
-The VzBot team has been working on our own docs for helping with your assembly of the machine. For the most upto date guides they can be found here.
-[https://docs.vzbot.org/]
 
 # What is the VzBoT?
 The VzBoT is a high speed, moderately sized 3d Printer. Originally based on the TronXY X5SA / X5S Frame, this printer was aimed at those who want more performance out of their 330x330mm sized 3d printer.
@@ -39,22 +38,22 @@ Unfortunately, due to inflation, and other costs, this price may be a higher (th
 Additionally, a Vz-235 will be less expensive, due to the smaller size and easily source able parts.
 
 # Where can you buy and find parts?
- We have 2 official manufacturers for parts. Mellow 3D and F3D racing in Germany. There are resellers and we will try to keep this list up to date. Please visit the reseller section
+Mellow 3D makes a VzBoT Vz330 AWD kit which includes all the requisite metal parts.
 
- - F3D Racing: https://f3d-racing-fdm.myshopify.com/
- - Aliexpress and Taobao:  [Mellow Store](https://www.aliexpress.com/store/1531088)
+ - Aliexpress store: [Mellow 3D Store](https://www.aliexpress.com/store/1531088)
+ - CNC AWD kit: [AliExpress.com - VzBoT Vz330 AWD CNC kit](https://s.click.aliexpress.com/e/_DkFwymp)
  
-
 # What is AWD (All wheel drive)?
 In conventional CoreXY machines, a 2WD setup is used. This setup utilizes 2 stepper motors at the back or front of the machine. Recently, the VzBoT project has adapted the AWD setup! This setup utilizes 2 motors on X, and 2 on Y, doubling the amount of motors for the XY plane. What are the advantages of this setup? Let's go over them:
 
 - Having two motors on one belt allows for a shorter effective belt length. This leads to less belt stretch, which usually gives better input shaper results.
 - The maximum useable acceleration is about 1.5x higher compared to 2WD due to the added torque.
 
-We recommend using the LDO-42STH48-2504AC or 2504AH 1.8deg motors, as they give the best performance for the VzBoT's usecase.
+We recommend using the LDO-42STH48-2504AC or LDO-42STH48-2504AH 1.8°/step stepper motors, as they give the best performance for the VzBoT's usecase.
 
+# License
+This project is licensed as Creative Commons Attribution-NonCommercial 4.0
 
-This project is licensed as
 ![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
 
-https://creativecommons.org/licenses/by-nc/4.0/
+<https://creativecommons.org/licenses/by-nc/4.0/>
